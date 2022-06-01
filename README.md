@@ -1,0 +1,1 @@
+Projeto de um cartão de visualização de NFT`s, utilizo somente HTML e CSS. 

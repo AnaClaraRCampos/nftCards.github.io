@@ -1,0 +1,128 @@
+*{
+    font-family: 'Outfit', sans-serif;   
+}
+
+body{
+    background-color: hsl(217, 54%, 11%);
+}
+
+/* Box Card */
+.container{
+    background-color: hsl(216, 50%, 16%);
+    width: 302px; 
+    height: 530px;
+    margin-left: auto;
+    margin-right: auto; 
+    border-radius: 10px;
+    margin-top: 56px;
+    box-shadow: rgba(0, 0, 0, 0.74) 0px 10px 36px 0px, rgba(48, 77, 141, 0.06) 0px 0px 0px 1px;
+}
+
+/* Imagem Equilibrium */
+#img1{
+    padding-top: 20px;
+    width: 260px;
+    height: 260px;
+    border-radius: 8px;
+}
+
+/* DIV Imagem Equilibrium */
+#image1{
+    text-align: center;
+}
+
+/* Símbolo Ethereum  */
+#img2{
+    margin-left: 21px;
+    position: relative;
+    bottom: 2px;
+}
+
+/* Imagem relógio */
+#img3{
+    margin-left: 88px;
+    position: relative;
+    bottom: 2px;
+}
+
+/* Foto de Perfil */
+#img4{
+    width: 27px;
+    height: 27px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: hsl(0, 0%, 100%);
+    border-width: 0.2px;
+    margin-left: 23px;
+    margin-top: 10px;
+}
+
+/* Título NFT */
+h1{
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 24px;
+    margin-top: 18px;
+}
+
+/* Texto descrição NFT */
+#description {
+    color:hsl(215, 25%, 54%);
+    font-weight: 300;
+    text-align: left;
+    margin-left: 25px;
+}
+
+/* Texto Ethereum */
+#price{
+    color: hsl(178, 100%, 50%);
+    font-size: 14px;
+    margin-left: 5px; 
+    position: relative;
+    bottom: 5px;
+}
+
+/* posicionamento DIV´s ethereum */
+.ethereum{
+    display: inline-block;
+}
+
+/* posicionamento DIV´s clock */
+.clock{
+    display: inline-block;
+}
+
+/* Texto Time */
+#time{
+    color:hsl(215, 25%, 54%);
+    font-size: 14px;
+    position: relative;
+    bottom: 5px;
+    margin-left: 0px;
+}
+
+/* Separador horizontal */
+hr {
+    margin: 10px 21px;
+    height: 0.1px;
+    background-color: hsl(215, 32%, 27%);
+    border: none;
+  }
+
+  .credits{
+      display: inline-block;
+  }
+
+  #credit{
+      color: hsl(215, 25%, 54%);
+      font-size: 15px;
+      margin-left: 10px;
+      position: relative;
+      bottom: 8px;
+  }
+
+  span{
+      color: hsl(0, 0%, 100%);
+  }
